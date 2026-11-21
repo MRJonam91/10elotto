@@ -1,0 +1,7 @@
+config.php
+**/config.php
+.env
+.env.*
+!*.example
+__pycache__/
+storici/10elotto-legato-lotto.zip
